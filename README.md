@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nabin Poudel</h1>
 <h3 align="center">A passionate developer from USA.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">![image](https://github.com/user-attachments/assets/d0b95c7a-20a7-4a27-a226-d2b753498429)
 
 - 🌱 I’m currently learning **React, Node JS**
 
