@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nabin Poudel</h1>
-<h3 align="center">A passionate developer from the USA.</h3>
+<h3 align="center">A passionate developer from the USA</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400"/>
+</p>
 
 - 🌱 I’m currently learning **React, Node JS**
 
@@ -76,4 +78,15 @@
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
   </a>
+</p>
+
+<h3 align="left">GitHub Stats:</h3>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nubpz&show_icons=true&locale=en&layout=compact" alt="nubpz" />
+</p>
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nubpz&show_icons=true&locale=en" alt="nubpz" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nubpz&" alt="nubpz" />
 </p>
